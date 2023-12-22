@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .App h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .App select, .App button {
+    margin: 10px; 
+    padding: 10px 15px; 
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .App select:hover, .App button:hover {
+    background-color: #0056b3;
+  }
+  
